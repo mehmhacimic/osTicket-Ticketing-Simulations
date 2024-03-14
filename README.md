@@ -103,8 +103,16 @@ Update the ticket status as it progresses through the lifecycle:
   <img src="https://github.com/mehmhacimic/osTicket-Ticketing-Simulations/assets/157438082/4d2c9d76-9cc6-46e9-9f3e-2a2bbf59103d" width="350" height="320">
 ---
 **Referencing Closed Tickets for Help**
+     
+   - Use closed tickets to assist you with new tickets when you need guidance
 
-  <img src="https://github.com/mehmhacimic/osTicket-Ticketing-Simulations/assets/157438082/e2d41f89-74e7-48e1-9599-86dc8ec93445" width="350" height="320">
+     <img src="https://github.com/mehmhacimic/osTicket-Ticketing-Simulations/assets/157438082/145b24c3-6290-425c-923e-30919008e161" width="350" height="320">
+
+
+Following these steps, you can practice creating, triaging, and solving osTicket tickets, simulating a real-world scenario for efficient ticket lifecycle management.
+
+If you have any questions or need additional assistance, refer to [osTicket Documentation](https://docs.osticket.com/en/latest/) or reach out to me via [LinkedIn](https://www.linkedin.com/in/mehmedalijahacimic/) for support.
+
 
 
    
