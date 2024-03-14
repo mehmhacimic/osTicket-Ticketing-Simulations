@@ -39,7 +39,7 @@ This tutorial simulates some real-world ticketing examples that we might see in 
 
       <img src="https://github.com/mehmhacimic/osTicket-Ticketing-Simulations/assets/157438082/22d5cccc-a059-422e-92c8-ea981d890fe6" width="350" height="320">
       
-* Sev-B Ticket
+* Sev-A/B Ticket
 
     * Subject: "Accounting department needs Adobe upgrade"
     * Description: Include relevant information.
@@ -75,6 +75,7 @@ Update the ticket status as it progresses through the lifecycle:
 5. Communication and Collaboration
    - Utilize the comment section in each ticket to communicate updates, solutions, or additional information.
    - Collaborate with team members through comments to share insights or request assistance.
+
 6. Monitor and Review
    - Regularly review the ticket dashboard to monitor the status of all tickets.
    - Conduct periodic reviews to analyze the resolution time and identify areas for improvement.
@@ -82,6 +83,30 @@ Update the ticket status as it progresses through the lifecycle:
 7. Practice and Iterate
    - Repeat the process with additional tickets to practice and refine your ticket management skills.
    - Make adjustments to the workflow or priorities based on the lessons learned during the practice.
+---
+**EXAMPLES**
+- Sev-A Ticket
+
+  <img src="https://github.com/mehmhacimic/osTicket-Ticketing-Simulations/assets/157438082/e2d41f89-74e7-48e1-9599-86dc8ec93445" width="350" height="320">
+  <img src="https://github.com/mehmhacimic/osTicket-Ticketing-Simulations/assets/157438082/0df30cdc-9ff9-4a48-b589-fa7912e3140b" width="350" height="320">
+- Sev-A/B ticket
+  
+  <img src="https://github.com/mehmhacimic/osTicket-Ticketing-Simulations/assets/157438082/30145469-c185-453c-85d6-dcaa9c10a5a0" width="350" height="320">
+  <img src="https://github.com/mehmhacimic/osTicket-Ticketing-Simulations/assets/157438082/fce28dd2-8583-4bb3-97d5-9ed65eab9ed6" width="350" height="320">
+  <img src="https://github.com/mehmhacimic/osTicket-Ticketing-Simulations/assets/157438082/0952ef84-caae-4edd-8f13-dec91338b808" width="350" height="320">
+  <img src="https://github.com/mehmhacimic/osTicket-Ticketing-Simulations/assets/157438082/6408f6e1-d92e-48c8-a50b-c8b95452d2b0" width="350" height="320">
+- Sev-B/C Ticket
+
+  <img src="https://github.com/mehmhacimic/osTicket-Ticketing-Simulations/assets/157438082/f7b46da0-52fb-49f8-b003-bb4462d729e4" width="350" height="320">
+- Sev-C Ticket
+
+  <img src="https://github.com/mehmhacimic/osTicket-Ticketing-Simulations/assets/157438082/4d2c9d76-9cc6-46e9-9f3e-2a2bbf59103d" width="350" height="320">
+---
+**Referencing Closed Tickets for Help**
+
+  <img src="https://github.com/mehmhacimic/osTicket-Ticketing-Simulations/assets/157438082/e2d41f89-74e7-48e1-9599-86dc8ec93445" width="350" height="320">
+
+
    
 
    
